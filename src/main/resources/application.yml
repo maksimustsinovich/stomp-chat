@@ -1,3 +1,8 @@
 spring:
   application:
     name: stomp-chat
+
+springdoc:
+  show-actuator: true
+  api-docs:
+    version: openapi_3_1
